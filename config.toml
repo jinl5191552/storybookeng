@@ -1,10 +1,12 @@
 baseurl = "/"
 title = "스토리북 영어학원"
 theme = "dimension"
-languageCode = "ko-KR"
+languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
