@@ -36,11 +36,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [languages]
 [languages.en]
-languageName = "English"
+languageName = "한글"
 weight = 1
 
 [languages.de]
-languageName = "Deutsch"
+languageName = "English"
 weight = 2
 title = "Dimension"
 description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />

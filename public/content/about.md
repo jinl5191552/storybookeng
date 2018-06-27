@@ -1,5 +1,5 @@
 +++
-title = "우리 소개"
+title = "About"
 weight = 30
 draft = false
 +++

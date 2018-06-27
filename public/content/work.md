@@ -1,5 +1,5 @@
 +++
-title = "스토리북 이야기"
+title = "Work"
 weight = 20
 draft = false
 +++
